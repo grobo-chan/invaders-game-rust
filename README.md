@@ -2,7 +2,8 @@ fooni invaders game in rust
 
 ### TODO
 - [x] code the damn thing
-- [ ] test things on linux
+- [x] test things on linux
+- [ ] replace `rusty-audio` with `rodio`
 - [ ] release a linux and a w\*ndows download
 
 ### LICENSE
